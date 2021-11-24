@@ -65,14 +65,17 @@ footer {
 
   #column-1 {
     background-color: Azure;
+    width: 100%;
   }
 
   #column-2 {
     background-color: Aqua;
+    width: 50%;
   }
 
   #column-3 {
     background-color: Aquamarine;
+    width: 50%;
   }
 
   footer {
@@ -90,14 +93,17 @@ footer {
 
   #column-1 {
     background-color: cornsilk;
+    width: 33.3%;
   }
 
   #column-2 {
     background-color: chocolate;
+    width: 33.3%;
   }
 
   #column-3 {
     background-color: brown;
+    width: 33.3%;
   }
 
   footer {
